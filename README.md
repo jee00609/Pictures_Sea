@@ -1,5 +1,7 @@
 ## Pictures Sea
 
+![Main Page](https://user-images.githubusercontent.com/31675804/141615048-78f8ccf2-0bf2-4a57-88b4-f089a161c526.PNG)
+
 AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하여 추출한 오브젝트 단어에 대하여, <br/> **단어에 대한 정의와 사용자의 발음을 평가** 해주는 프로그램 제작
 
 ## 상세 기능 구현 사항
