@@ -27,11 +27,11 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 
 * Class Diagram
 
-![Class Diagram](https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Class%20Diagram.png)
+<img src="https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Class%20Diagram.png"  width="200" height="400"/>
 
 * Floaw Chart
 
-![Flow CHart](https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Flow%20Chart.png)
+<img src="https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Flow%20Chart.png"  width="200" height="400"/>
 
 ## 개발 기록
 
