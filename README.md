@@ -7,6 +7,7 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 ## 목차
 
 * [상세 기능 구현 사항](#상세-기능-구현-사항)
+* [UML](#UML)
 * [개발 기록](#개발-기록)
 
 
@@ -20,6 +21,17 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 * 상세카드의 Rating 버튼 클릭 시 업로드한 Audio 파일과 Object 카드를 비교하여 발음 평가 - 완성
 * Object 와 Object 에 대한 한국어 정의, 발음 평가 점수 등을 새 탭에서 열리는 페이지에서 출력 - 완성
 * 프로젝트를 소개하는 Introduce 페이지 생성 - 완성
+
+
+## UML
+
+* Class Diagram
+
+![Class Diagram](https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Class%20Diagram.png)
+
+* Floaw Chart
+
+![Flow CHart](https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Flow%20Chart.png)
 
 ## 개발 기록
 
