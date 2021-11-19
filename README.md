@@ -25,6 +25,8 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 
 ## UML
 
+(클릭 시 원본 그림 보기 가능)
+
 * Class Diagram
 
 <img src="https://github.com/jee00609/Pictures_Sea/blob/master/src/main/resources/static/uml/Class%20Diagram.png"  width="900" height="500"/>
