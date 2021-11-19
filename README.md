@@ -9,6 +9,7 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 * [상세 기능 구현 사항](#상세-기능-구현-사항)
 * [UML](#UML)
 * [개발 기록](#개발-기록)
+* [동영상](#동영상)
 
 
 ## 상세 기능 구현 사항
@@ -39,3 +40,8 @@ AWS Rekognition 과 ETRI Open API 를 통해 사용자의 이미지를 분석하
 
 * [Spring Framework 환경 에서의 AWS-S3 업로드 테스팅 프로젝트](https://github.com/jee00609/aws-s3Uplaod-Upgrade-Demo)
 * [Spring Framework 환경 에서의 AWS-Rekognition 테스팅 프로젝트](https://github.com/jee00609/aws-rekognition-Demo)
+
+## 동영상
+
+* [짧은 설명](https://youtu.be/8zzVUW735Cs)
+* [상세 설명](https://youtu.be/zSkj0KpMWxw)
